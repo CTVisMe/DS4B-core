@@ -11,5 +11,7 @@ Components of the Repo
 - **Articles** Articles for Class Discussion.  Either technical or popular news articles regarding data science topics good for discussion of real-world application of data science themes.  You can augment this with slides that cover thought questions, in **Slides/Discussions**
 - **Homeworks** Three HW assignments plus a "pre-work" assignment that I provide to the class one week before the term start.
 
+Any comments or questions, please reach out to me at CTVisMe@gmail.com
 
-  
+## License
+This course material is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You are free to use, share, and adapt the content for non-commercial purposes, provided that you give appropriate credit.
